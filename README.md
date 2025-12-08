@@ -1,6 +1,5 @@
  Hi, I’m @Thanmay98
  I’m interested in learning new skills  
- I’m currently learning web-development
  
  
 
