@@ -45,11 +45,4 @@
 
 A VR-based educational application that promotes eye health awareness through immersive learning experiences.
 
-## 2026 Goals
-
--  Become a Data Analyst
--  Build AI & Data projects
--  Participate in Hackathons
-- 🌱Contribute to Open Source
-
 ✨ *Thanks for stopping by! Feel free to explore my projects and follow my journey.* 🚀
