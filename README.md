@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=650&lines=Turning+Ideas+into+Projects;Python+%7C+SQL+%7C+AI+%7C+IoT;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 </p>
+
 ##  About Me
 
 - Passionate about building practical solutions using **Python, SQL, AI, and IoT**
@@ -37,7 +38,11 @@
 
 ## Languages
 
-🇬🇧 English • 🇮🇳 Telugu • 🇮🇳 Tamil • 🇮🇳 Hindi • 💻 SQL 😄
+• English 
+• Telugu 
+• Hindi
+• Tamil 
+• SQL 😄
 
 ## Featured Project
 ###  VisionVerse
